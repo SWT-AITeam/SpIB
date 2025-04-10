@@ -1,7 +1,6 @@
 # Span-aware pre-trained network with deep information bottleneck for scientific entity relation extraction
-PyTorch code for "Span-aware pre-trained network with deep information bottleneck for scientific entity relation extraction". For a description of the model and experiments, see our paper: https://xxx (published at xxx 2024).
+PyTorch code for "Span-aware pre-trained network with deep information bottleneck for scientific entity relation extraction". For a description of the model and experiments, see our paper: https://www.sciencedirect.com/science/article/pii/S0893608025001297 (published at NEURAL NETWORKS 2024).
 
-![alt text](http://xxx)
 
 ## Setup
 ### Requirements
